@@ -1,0 +1,991 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"q",
+				"Query"
+			],
+			[
+				"or",
+				"order"
+			],
+			[
+				"err",
+				"Error"
+			],
+			[
+				"c",
+				"charset	Attr"
+			],
+			[
+				"mysql_er",
+				"mysql_error"
+			],
+			[
+				"RE",
+				"result3"
+			],
+			[
+				"pag",
+				"pages"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"per",
+				"perPages"
+			],
+			[
+				"al",
+				"alt"
+			],
+			[
+				"id",
+				"id_carier"
+			],
+			[
+				"o",
+				"onchange	Attr"
+			],
+			[
+				"re",
+				"ready"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"j",
+				"jquery"
+			],
+			[
+				"h",
+				"href"
+			],
+			[
+				"arr",
+				"arrNilai"
+			],
+			[
+				"prin",
+				"printf"
+			],
+			[
+				"co",
+				"connect"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"l",
+				"left"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"alig",
+				"align-content"
+			],
+			[
+				"st",
+				"style	Attr"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"vt",
+				"vht"
+			],
+			[
+				"s",
+				"style	Attr"
+			],
+			[
+				"txt",
+				"txtpass"
+			],
+			[
+				"pola",
+				"pola_email"
+			],
+			[
+				"fs",
+				"font-size"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"b",
+				"bilangan1"
+			],
+			[
+				"f",
+				"frcontoh"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-collapse"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"onc",
+				"onclick	Attr"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bg",
+				"background	Attr"
+			],
+			[
+				"lang",
+				"language	Attr"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"WI",
+				"width"
+			],
+			[
+				"txta",
+				"textarea	Tag"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"wi",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "admin/contact/data_contact.php",
+			"settings":
+			{
+				"buffer_size": 5952,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "about.php",
+			"settings":
+			{
+				"buffer_size": 1884,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/siakadv2_161530040/dbo.php",
+			"settings":
+			{
+				"buffer_size": 263,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "admin/contact/edit_contact.php",
+			"settings":
+			{
+				"buffer_size": 6734,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin/contact/hapus_contact.php",
+			"settings":
+			{
+				"buffer_size": 427,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin/contact/proses_edit_contact.php",
+			"settings":
+			{
+				"buffer_size": 459,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin/contact/proses_tambah_contact.php",
+			"settings":
+			{
+				"buffer_size": 606,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "admin/contact/tambah_contact.php",
+			"settings":
+			{
+				"buffer_size": 6295,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/html",
+		"/C/xampp/htdocs/html/admin",
+		"/C/xampp/htdocs/html/admin/about",
+		"/C/xampp/htdocs/html/admin/berita",
+		"/C/xampp/htdocs/html/admin/carier",
+		"/C/xampp/htdocs/html/admin/contact",
+		"/C/xampp/htdocs/html/admin/produk"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/html/admin/carier/data_carier.php",
+		"/C/xampp/htdocs/html/admin/about/proses_edit_about.php",
+		"/C/xampp/htdocs/html/admin/about/hapus_about.php",
+		"/C/xampp/htdocs/html/admin/about/data_about.php",
+		"/C/xampp/htdocs/html/admin/about/edit_about.php",
+		"/C/xampp/htdocs/html/koneksi.php",
+		"/C/xampp/htdocs/html/contact.php",
+		"/C/xampp/htdocs/html/about.php",
+		"/C/xampp/htdocs/html/banner.php",
+		"/C/xampp/htdocs/html/article.php",
+		"/C/xampp/htdocs/html/admin/tabel_akun/nav_top.php",
+		"/C/xampp/htdocs/html/admin/tabel_akun/data_akun.php",
+		"/C/xampp/htdocs/html/admin/nav_top.php",
+		"/C/xampp/htdocs/html/admin/home.php",
+		"/C/xampp/htdocs/html/admin/produk/header.php",
+		"/C/xampp/htdocs/html/admin/produk/top.php",
+		"/C/xampp/htdocs/html/product-all.php",
+		"/C/xampp/htdocs/html/admin/produk/data_produk.php",
+		"/C/xampp/htdocs/html/admin/produk/bottom.php",
+		"/C/xampp/htdocs/html/admin/produk/footer.php",
+		"/C/xampp/htdocs/html/admin/produk/koneksi.php",
+		"/C/xampp/htdocs/html/admin/produk/editproduk.php",
+		"/C/xampp/htdocs/html/admin/produk/kategori.php",
+		"/C/xampp/htdocs/html/admin/produk/pencarian.php",
+		"/C/xampp/htdocs/html/admin/produk/pencarianktg.php",
+		"/C/xampp/htdocs/html/admin/produk/tambahktg.php",
+		"/C/xampp/htdocs/html/admin/produk/tambahproduk.php",
+		"/C/xampp/htdocs/html/admin/produk/editktg.php",
+		"/C/xampp/htdocs/html/admin/carier/pencarian_carier.php",
+		"/C/xampp/htdocs/html/admin/carier/nav_top.php",
+		"/C/xampp/htdocs/html/carier_s1.php",
+		"/C/xampp/htdocs/html/admin/carier/proses_tambah_carier.php",
+		"/C/xampp/htdocs/html/admin/carier/proses_edit_carier.php",
+		"/C/xampp/htdocs/html/carier.php",
+		"/C/xampp/htdocs/html/admin/carier/edit_carier.php",
+		"/C/xampp/htdocs/kelompok1/admin/berita/proses_edit_berita.php",
+		"/C/xampp/htdocs/kelompok1/admin/berita/proses_tambah_berita.php",
+		"/C/xampp/htdocs/html/admin/carier/hapus_carier.php",
+		"/C/xampp/htdocs/siakad_161530040ROHTIMAN/siakad_161530040ROHTIMAN.sublime-project",
+		"/C/xampp/htdocs/siakad_161530040ROHTIMAN/index.php",
+		"/C/xampp/htdocs/siakad_161530040ROHTIMAN/header.php",
+		"/C/xampp/htdocs/siakad_161530040ROHTIMAN/menu.php",
+		"/C/xampp/htdocs/siakad_161530040ROHTIMAN/content.php",
+		"/C/xampp/htdocs/siakad_161530040ROHTIMAN/tabel.php",
+		"/C/xampp/htdocs/siakad_161530040ROHTIMAN/dbo.php",
+		"/C/xampp/htdocs/html/admin/koneksi.php",
+		"/C/xampp/htdocs/siakad_161530001/dbo.php",
+		"/C/xampp/htdocs/siakad_161530001/content.php",
+		"/C/Users/Rohtiman/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/siakad_161530001/table.php",
+		"/C/xampp/htdocs/siakad_161530001/index.php",
+		"/C/xampp/htdocs/siakad_161530001/menu.php",
+		"/C/xampp/htdocs/siakad_161530001/header.php",
+		"/C/xampp/htdocs/siakad_161530040ROHTIMAN/form.php",
+		"/C/xampp/htdocs/siakad_161530040ROHTIMAN/crud/create.php",
+		"/C/xampp/htdocs/siakad_161530040ROHTIMAN/crud/update.php",
+		"/C/xampp/htdocs/siakad_161530040ROHTIMAN/crud/delete.php",
+		"/C/xampp/htdocs/siakad_161530040ROHTIMAN/crud/prodi/create.php",
+		"/C/xampp/htdocs/siakad_161530040ROHTIMAN/crud/prodi/update.php",
+		"/C/xampp/htdocs/siakad_161530040ROHTIMAN/validasi.php",
+		"/C/xampp/htdocs/siakad_161530040ROHTIMAN/footer.php",
+		"/D/gambar/Asset/genre/platform games - Penelusuran Google.html",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/xampp/htdocs/html/carier_d3.php",
+		"/C/xampp/htdocs/html/Regular_Recruitment.php",
+		"/C/xampp/htdocs/html/detailberita.php",
+		"/C/xampp/htdocs/html/Recruiment_Process.php",
+		"/C/xampp/htdocs/html/news.php",
+		"/C/xampp/htdocs/html/index.php",
+		"/C/xampp/htdocs/html/pricelist.php",
+		"/C/xampp/htdocs/html/admin/carier/tambah_carier.php",
+		"/C/xampp/htdocs/html/admin/produk/prosestambah.php",
+		"/E/produk/data_produk.php",
+		"/C/xampp/htdocs/html/admin/index.php",
+		"/C/xampp/htdocs/html/admin/proses-login.php",
+		"/C/xampp/htdocs/html/admin/berita/edit_berita.php",
+		"/C/xampp/htdocs/html/admin/berita/data_berita.php",
+		"/C/xampp/htdocs/html/admin/berita/proses_edit_berita.php",
+		"/C/xampp/htdocs/html/admin/footer.php",
+		"/D/Download/Implementasi ERP pada PT. Telkom _ fandyti10.html",
+		"/C/xampp/htdocs/html/carier_sma_smk.php",
+		"/D/Download/Pemprograman1/Handbook 4/pertemuan 4/praktikum-4.html",
+		"/C/xampp/htdocs/html/form_simpan.php",
+		"/C/xampp/htdocs/html/proses.php",
+		"/C/Users/Rohtiman/Desktop/kelompok 1",
+		"/C/xampp/htdocs/html/menuBerita.php",
+		"/C/xampp/htdocs/html/footer.php",
+		"/C/xampp/htdocs/html/single.php",
+		"/C/xampp/htdocs/pemprograman 1/pertemuan 8/praktikum5.php",
+		"/C/xampp/htdocs/html/admin/tabel_akun/tambah_akun.php",
+		"/C/xampp/htdocs/html/admin/tabel_akun/edit_akun.php",
+		"/C/xampp/htdocs/html/admin/berita/hapus_berita.php",
+		"/C/xampp/htdocs/html/admin/berita/proses_tambah_berita.php",
+		"/C/xampp/htdocs/html/admin/berita/pencarian_berita.php",
+		"/C/xampp/htdocs/html/admin/berita/nav_top.php",
+		"/C/xampp/htdocs/html/admin/berita/tambah_berita.php",
+		"/C/xampp/htdocs/html/admin/tabel_akun/simpan_akun.php",
+		"/C/xampp/htdocs/html/admin/tabel_akun/edit_password.php",
+		"/C/xampp/htdocs/html/admin/tabel_akun/proses_edit_akun.php",
+		"/C/xampp/htdocs/html/admin/tabel_akun/hapus_akun.php",
+		"/C/xampp/htdocs/html/admin/tabel_akun/proses_edit_password.php",
+		"/C/xampp/htdocs/kelompok1/admin/berita/data_berita.php",
+		"/C/xampp/htdocs/kelompok1/admin/berita/edit_berita.php",
+		"/C/xampp/htdocs/kelompok1/admin/berita/tambah_berita.php",
+		"/C/xampp/htdocs/koneksi.php",
+		"/C/xampp/htdocs/html/header.php",
+		"/D/Download/Pemprograman1/Handbook 6/Pertemuan 6/praktikum 5.html",
+		"/E/contact.php",
+		"/C/Users/Rohtiman/AppData/Local/Temp/Rar$DIa0.379/koneksi.php",
+		"/C/xampp/htdocs/html/admin/backup/berita/data_berita.php",
+		"/C/xampp/htdocs/html/admin/carier/berita/data_berita.php",
+		"/C/xampp/htdocs/html/admin/backup/berita/proses_edit_berita.php",
+		"/C/xampp/htdocs/html/admin/backup/berita/edit_berita.php",
+		"/C/xampp/htdocs/html/admin/backup/berita/tambah_berita.php",
+		"/C/xampp/htdocs/html/admin/backup/berita/proses_tambah_berita.php",
+		"/C/xampp/htdocs/html/admin/carier/koneksi.php",
+		"/C/xampp/htdocs/kelompok1/admin/home.php",
+		"/C/xampp/htdocs/kelompok1/admin/index.php",
+		"/C/Users/Rohtiman/AppData/Local/Temp/Rar$DIa0.782/tambah_berita.php",
+		"/C/Users/Rohtiman/AppData/Local/Temp/Rar$DIa0.331/proses_tambah_berita.php",
+		"/C/Users/Rohtiman/AppData/Local/Temp/Rar$DIa0.317/edit_berita.php",
+		"/C/Users/Rohtiman/AppData/Local/Temp/Rar$DIa0.647/proses_edit_berita.php",
+		"/C/Users/Rohtiman/AppData/Local/Temp/Rar$DIa0.896/koneksi.php",
+		"/C/xampp/htdocs/html/admin/carier/data_berita.php",
+		"/G/alisa proyekkkkkkkkk/about.php",
+		"/G/alisa proyekkkkkkkkk/contact.php",
+		"/G/Proyek/banner.php",
+		"/E/dessy/header.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"EDIT",
+			"rp",
+			"id",
+			"mysql",
+			"<?",
+			"<? ",
+			"<?",
+			"<?php ",
+			"<?",
+			"_berita",
+			"HEADER",
+			"<?",
+			"lihat",
+			"baca ",
+			"<!-- HEADER -->\n		<header>\n			<div class=\"wrapper cf\">\n				\n				<div id=\"logo\">\n					<a href=\"index.php\"><img  src=\"img/logo.png\" alt=\"Simpler\"></a>\n				</div>\n				\n				<!-- nav -->\n				<ul id=\"nav\" class=\"sf-menu\">\n					<li><a href=\"index.php\"><span>HOME</span></a></li>\n					<li class=\"current-menu-item\"><a href=\"product-all.php\">PRODUCT</a></li>\n					<li><a href=\"pricelist.php\">PRICE LIST</a></li>\n					<li><a href=\"news.php\">NEWS</a></li>\n					<li><a href=\"carier.php\">CARIER</a></li>\n					<li><a href=\"contact.php\">CONTACT</a></li>\n					<li><a href=\"about.php\">ABOUT</a></li>\n					\n				</ul>\n				<div id=\"combo-holder\"></div>\n				<!-- ends nav -->\n\n			</div>\n		</header>\n		<!-- ENDS HEADER -->",
+			"index",
+			"html",
+			"_berita",
+			"carier",
+			"id_carier",
+			"id",
+			"hapus",
+			"berita",
+			"carier",
+			"koneksi",
+			"formCheck",
+			"<?",
+			"<?php",
+			"<?",
+			"<?php",
+			"<?",
+			"div",
+			"dev",
+			"id",
+			">\n",
+			"active-menu",
+			"id",
+			"'id'",
+			"id",
+			"id_carier",
+			"berita",
+			"_berita",
+			"berita",
+			"_berita",
+			" $month=",
+			"rupiah",
+			"jumdata",
+			"berita",
+			"id_berita",
+			"	Requeremen",
+			"page",
+			"servi",
+			"ser",
+			"service",
+			"wrapper",
+			"page",
+			"page-wra",
+			"Siti Aulah",
+			"acti",
+			"class=\"ac",
+			"CSS Backgrounds",
+			"current-menu-item",
+			"boots",
+			"current",
+			"nav",
+			"current",
+			"current-menu-item",
+			"jquery",
+			"boot",
+			"current",
+			".current-menu-item",
+			"current-menu-item",
+			"\"home\"",
+			"\"page\"",
+			"header",
+			"-->\n",
+			"<?",
+			"limit",
+			"Category",
+			"Yamaha",
+			"img",
+			"sidebar",
+			"posts-list",
+			"page-content",
+			"Archives",
+			"posts-list",
+			"f7f4f1",
+			"sidebar",
+			"posts-list",
+			"page-content",
+			"SIDEBAR",
+			"posts-list",
+			"format-quote",
+			"h4",
+			"page content",
+			"main",
+			"slit",
+			"slitebar",
+			"Archives",
+			".info",
+			"Launch Project",
+			"sidebar",
+			"Leave a Reply",
+			"Text Widget",
+			"login",
+			"mysql",
+			"border-color",
+			"<?php ",
+			"doot",
+			"end main",
+			"nav",
+			"index.html",
+			"header",
+			"font",
+			">",
+			"5",
+			">",
+			"5"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"_carier",
+			"id_carier",
+			"Lubada",
+			"background-color",
+			"index.php"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "admin/contact/data_contact.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5952,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4541,
+								4541
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1470.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "about.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1884,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1307,
+								1307
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 660.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/siakadv2_161530040/dbo.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								117,
+								117
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "admin/contact/edit_contact.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "admin/contact/hapus_contact.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 427,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "admin/contact/proses_edit_contact.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "admin/contact/proses_tambah_contact.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 606,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "admin/contact/tambah_contact.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "project_lubaba.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
